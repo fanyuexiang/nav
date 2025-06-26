@@ -77,5 +77,11 @@
     "tslib": "^2.8.1",
     "tsx": "^4.19.4",
     "typescript": "~5.8.3"
-  }
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "iOS >= 15",
+    "not dead"
+  ]
 }
